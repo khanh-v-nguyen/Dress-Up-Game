@@ -1,0 +1,3 @@
+/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles/multiText.dir
+/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
