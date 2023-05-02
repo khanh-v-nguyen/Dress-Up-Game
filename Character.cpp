@@ -82,5 +82,6 @@ void Character::draw(sf::RenderTarget &target, sf::RenderStates states) const
     target.draw(hairBox);
     target.draw(dice);
     target.draw(name);
+
 }
 
