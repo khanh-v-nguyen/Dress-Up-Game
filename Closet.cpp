@@ -47,10 +47,6 @@ void Closet::setUpClothes()
     closet[Clothing::HAIR].push_back(Clothing("images/IMG_0211.PNG", Clothing::HAIR));
     closet[Clothing::HAIR].push_back(Clothing("images/IMG_0212.PNG", Clothing::HAIR));
     closet[Clothing::HAIR].push_back(Clothing("images/IMG_0213.PNG", Clothing::HAIR));
-
-//    closet[Clothing::SHIRTS][0].setPosition({1100,50});
-//    closet[Clothing::BOTTOMS][0].setPosition({1100,50});
-//    closet[Clothing::HAIR][0].setPosition({1100,50});
 }
 
 void Closet::reposition()
