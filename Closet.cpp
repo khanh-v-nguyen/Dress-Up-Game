@@ -70,7 +70,6 @@ void Closet::setPosition(sf::Vector2f position)
     closet[Clothing::SHIRTS][0].setPosition({position});
     closet[Clothing::BOTTOMS][0].setPosition({position});
     closet[Clothing::HAIR][0].setPosition({position});
-
     reposition();
 }
 
