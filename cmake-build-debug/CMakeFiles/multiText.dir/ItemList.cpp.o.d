@@ -1,7 +1,7 @@
 CMakeFiles/multiText.dir/ItemList.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/ItemList.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/ItemList.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Item.h \
+  /Users/khanh/CLionProjects/DressUpGame2/ItemList.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/ItemList.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Item.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -494,11 +494,11 @@ CMakeFiles/multiText.dir/ItemList.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Images.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Images.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/istream

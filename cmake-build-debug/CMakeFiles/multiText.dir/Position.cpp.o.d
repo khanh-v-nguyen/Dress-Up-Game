@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Position.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

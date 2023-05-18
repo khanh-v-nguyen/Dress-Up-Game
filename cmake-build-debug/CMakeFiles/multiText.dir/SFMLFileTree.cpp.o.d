@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/SFMLFileTree.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTree.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTree.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTree.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTree.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -415,11 +415,11 @@ CMakeFiles/multiText.dir/SFMLFileTree.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/sstream \
-  /Users/khanh/CLionProjects/DressUpGame1/FileTree.h \
-  /Users/khanh/CLionProjects/DressUpGame1/FileTreeNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileTree.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileTreeNode.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/khanh/CLionProjects/DressUpGame1/FileItem.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileItem.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -499,12 +499,12 @@ CMakeFiles/multiText.dir/SFMLFileTree.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Font.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTreeNode.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Character.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Images.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp
+  /Users/khanh/CLionProjects/DressUpGame2/Font.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTreeNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Character.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Images.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp

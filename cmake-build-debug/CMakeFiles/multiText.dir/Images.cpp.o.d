@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Images.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Images.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Images.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Images.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Images.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

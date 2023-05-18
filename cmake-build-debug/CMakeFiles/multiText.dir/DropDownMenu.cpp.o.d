@@ -1,7 +1,7 @@
 CMakeFiles/multiText.dir/DropDownMenu.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/DropDownMenu.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/DropDownMenu.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Item.h \
+  /Users/khanh/CLionProjects/DressUpGame2/DropDownMenu.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/DropDownMenu.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Item.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -494,22 +494,22 @@ CMakeFiles/multiText.dir/DropDownMenu.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Images.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Images.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/istream \
-  /Users/khanh/CLionProjects/DressUpGame1/ItemList.h \
-  /Users/khanh/CLionProjects/DressUpGame1/InputBox.h \
-  /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.h \
-  /Users/khanh/CLionProjects/DressUpGame1/EventHandler.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Snapshot.h \
-  /Users/khanh/CLionProjects/DressUpGame1/DropDownSnapshot.h \
-  /Users/khanh/CLionProjects/DressUpGame1/History.h \
-  /Users/khanh/CLionProjects/DressUpGame1/HistoryNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/ItemList.h \
+  /Users/khanh/CLionProjects/DressUpGame2/InputBox.h \
+  /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.h \
+  /Users/khanh/CLionProjects/DressUpGame2/EventHandler.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Snapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/DropDownSnapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/History.h \
+  /Users/khanh/CLionProjects/DressUpGame2/HistoryNode.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/stack \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/deque

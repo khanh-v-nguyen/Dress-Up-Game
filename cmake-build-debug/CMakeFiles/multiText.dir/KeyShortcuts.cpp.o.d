@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/KeyShortcuts.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/KeyShortcuts.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/KeyShortcuts.h \
+  /Users/khanh/CLionProjects/DressUpGame2/KeyShortcuts.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/KeyShortcuts.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

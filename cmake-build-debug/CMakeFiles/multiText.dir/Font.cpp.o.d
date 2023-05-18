@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Font.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Font.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Font.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Font.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Font.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Circle.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Circle.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Circle.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Circle.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Circle.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

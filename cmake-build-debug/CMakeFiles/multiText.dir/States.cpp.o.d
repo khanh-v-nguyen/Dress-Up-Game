@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/States.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/States.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/States.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \

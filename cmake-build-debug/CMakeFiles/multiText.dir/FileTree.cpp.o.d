@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/FileTree.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/FileTree.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/FileTree.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileTree.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/FileTree.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -415,10 +415,10 @@ CMakeFiles/multiText.dir/FileTree.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/sstream \
-  /Users/khanh/CLionProjects/DressUpGame1/FileTreeNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileTreeNode.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/khanh/CLionProjects/DressUpGame1/FileItem.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileItem.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -498,4 +498,4 @@ CMakeFiles/multiText.dir/FileTree.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Font.h
+  /Users/khanh/CLionProjects/DressUpGame2/Font.h

@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/FileReader.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/FileReader.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/FileReader.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileReader.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/FileReader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \

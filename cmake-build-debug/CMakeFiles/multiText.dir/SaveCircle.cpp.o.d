@@ -1,7 +1,7 @@
 CMakeFiles/multiText.dir/SaveCircle.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/SaveCircle.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/SaveCircle.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Circle.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SaveCircle.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/SaveCircle.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Circle.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

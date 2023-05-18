@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/MouseEvents.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

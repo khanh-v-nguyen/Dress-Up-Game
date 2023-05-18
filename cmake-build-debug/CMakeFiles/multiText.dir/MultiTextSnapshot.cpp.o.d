@@ -1,3 +1,3 @@
 CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/MultiTextSnapshot.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/MultiTextSnapshot.h
+  /Users/khanh/CLionProjects/DressUpGame2/MultiTextSnapshot.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/MultiTextSnapshot.h

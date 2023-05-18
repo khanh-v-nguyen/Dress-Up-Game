@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Heap.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Heap.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Heap.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Heap.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Heap.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \

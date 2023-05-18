@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Cursor.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Cursor.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Cursor.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Cursor.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Cursor.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

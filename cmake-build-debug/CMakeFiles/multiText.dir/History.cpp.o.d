@@ -1,8 +1,8 @@
 CMakeFiles/multiText.dir/History.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/History.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/History.h \
-  /Users/khanh/CLionProjects/DressUpGame1/HistoryNode.h \
-  /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.h \
+  /Users/khanh/CLionProjects/DressUpGame2/History.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/History.h \
+  /Users/khanh/CLionProjects/DressUpGame2/HistoryNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -495,10 +495,10 @@ CMakeFiles/multiText.dir/History.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/EventHandler.h \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Snapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/EventHandler.h \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Snapshot.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/istream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/stack \

@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/khanh/CLionProjects/DressUpGame1
+CMAKE_SOURCE_DIR = /Users/khanh/CLionProjects/DressUpGame2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/multiText.dir/depend.make
@@ -72,674 +72,674 @@ include CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/main.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/main.cpp.o: ../main.cpp
 CMakeFiles/multiText.dir/main.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/multiText.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/main.cpp.o -MF CMakeFiles/multiText.dir/main.cpp.o.d -o CMakeFiles/multiText.dir/main.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/multiText.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/main.cpp.o -MF CMakeFiles/multiText.dir/main.cpp.o.d -o CMakeFiles/multiText.dir/main.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/main.cpp
 
 CMakeFiles/multiText.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/main.cpp > CMakeFiles/multiText.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/main.cpp > CMakeFiles/multiText.dir/main.cpp.i
 
 CMakeFiles/multiText.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/main.cpp -o CMakeFiles/multiText.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/main.cpp -o CMakeFiles/multiText.dir/main.cpp.s
 
 CMakeFiles/multiText.dir/Typing.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Typing.cpp.o: ../Typing.cpp
 CMakeFiles/multiText.dir/Typing.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/multiText.dir/Typing.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Typing.cpp.o -MF CMakeFiles/multiText.dir/Typing.cpp.o.d -o CMakeFiles/multiText.dir/Typing.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Typing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/multiText.dir/Typing.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Typing.cpp.o -MF CMakeFiles/multiText.dir/Typing.cpp.o.d -o CMakeFiles/multiText.dir/Typing.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Typing.cpp
 
 CMakeFiles/multiText.dir/Typing.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Typing.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Typing.cpp > CMakeFiles/multiText.dir/Typing.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Typing.cpp > CMakeFiles/multiText.dir/Typing.cpp.i
 
 CMakeFiles/multiText.dir/Typing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Typing.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Typing.cpp -o CMakeFiles/multiText.dir/Typing.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Typing.cpp -o CMakeFiles/multiText.dir/Typing.cpp.s
 
 CMakeFiles/multiText.dir/Application.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Application.cpp.o: ../Application.cpp
 CMakeFiles/multiText.dir/Application.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/multiText.dir/Application.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Application.cpp.o -MF CMakeFiles/multiText.dir/Application.cpp.o.d -o CMakeFiles/multiText.dir/Application.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Application.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/multiText.dir/Application.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Application.cpp.o -MF CMakeFiles/multiText.dir/Application.cpp.o.d -o CMakeFiles/multiText.dir/Application.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Application.cpp
 
 CMakeFiles/multiText.dir/Application.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Application.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Application.cpp > CMakeFiles/multiText.dir/Application.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Application.cpp > CMakeFiles/multiText.dir/Application.cpp.i
 
 CMakeFiles/multiText.dir/Application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Application.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Application.cpp -o CMakeFiles/multiText.dir/Application.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Application.cpp -o CMakeFiles/multiText.dir/Application.cpp.s
 
 CMakeFiles/multiText.dir/MultiText.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/MultiText.cpp.o: ../MultiText.cpp
 CMakeFiles/multiText.dir/MultiText.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/multiText.dir/MultiText.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/MultiText.cpp.o -MF CMakeFiles/multiText.dir/MultiText.cpp.o.d -o CMakeFiles/multiText.dir/MultiText.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/MultiText.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/multiText.dir/MultiText.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/MultiText.cpp.o -MF CMakeFiles/multiText.dir/MultiText.cpp.o.d -o CMakeFiles/multiText.dir/MultiText.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/MultiText.cpp
 
 CMakeFiles/multiText.dir/MultiText.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/MultiText.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/MultiText.cpp > CMakeFiles/multiText.dir/MultiText.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/MultiText.cpp > CMakeFiles/multiText.dir/MultiText.cpp.i
 
 CMakeFiles/multiText.dir/MultiText.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/MultiText.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/MultiText.cpp -o CMakeFiles/multiText.dir/MultiText.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/MultiText.cpp -o CMakeFiles/multiText.dir/MultiText.cpp.s
 
 CMakeFiles/multiText.dir/Letter.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Letter.cpp.o: ../Letter.cpp
 CMakeFiles/multiText.dir/Letter.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/multiText.dir/Letter.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Letter.cpp.o -MF CMakeFiles/multiText.dir/Letter.cpp.o.d -o CMakeFiles/multiText.dir/Letter.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Letter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/multiText.dir/Letter.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Letter.cpp.o -MF CMakeFiles/multiText.dir/Letter.cpp.o.d -o CMakeFiles/multiText.dir/Letter.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Letter.cpp
 
 CMakeFiles/multiText.dir/Letter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Letter.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Letter.cpp > CMakeFiles/multiText.dir/Letter.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Letter.cpp > CMakeFiles/multiText.dir/Letter.cpp.i
 
 CMakeFiles/multiText.dir/Letter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Letter.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Letter.cpp -o CMakeFiles/multiText.dir/Letter.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Letter.cpp -o CMakeFiles/multiText.dir/Letter.cpp.s
 
 CMakeFiles/multiText.dir/States.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/States.cpp.o: ../States.cpp
 CMakeFiles/multiText.dir/States.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/multiText.dir/States.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/States.cpp.o -MF CMakeFiles/multiText.dir/States.cpp.o.d -o CMakeFiles/multiText.dir/States.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/States.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/multiText.dir/States.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/States.cpp.o -MF CMakeFiles/multiText.dir/States.cpp.o.d -o CMakeFiles/multiText.dir/States.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/States.cpp
 
 CMakeFiles/multiText.dir/States.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/States.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/States.cpp > CMakeFiles/multiText.dir/States.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/States.cpp > CMakeFiles/multiText.dir/States.cpp.i
 
 CMakeFiles/multiText.dir/States.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/States.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/States.cpp -o CMakeFiles/multiText.dir/States.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/States.cpp -o CMakeFiles/multiText.dir/States.cpp.s
 
 CMakeFiles/multiText.dir/Snapshot.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Snapshot.cpp.o: ../Snapshot.cpp
 CMakeFiles/multiText.dir/Snapshot.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/multiText.dir/Snapshot.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Snapshot.cpp.o -MF CMakeFiles/multiText.dir/Snapshot.cpp.o.d -o CMakeFiles/multiText.dir/Snapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Snapshot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/multiText.dir/Snapshot.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Snapshot.cpp.o -MF CMakeFiles/multiText.dir/Snapshot.cpp.o.d -o CMakeFiles/multiText.dir/Snapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Snapshot.cpp
 
 CMakeFiles/multiText.dir/Snapshot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Snapshot.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Snapshot.cpp > CMakeFiles/multiText.dir/Snapshot.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Snapshot.cpp > CMakeFiles/multiText.dir/Snapshot.cpp.i
 
 CMakeFiles/multiText.dir/Snapshot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Snapshot.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Snapshot.cpp -o CMakeFiles/multiText.dir/Snapshot.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Snapshot.cpp -o CMakeFiles/multiText.dir/Snapshot.cpp.s
 
 CMakeFiles/multiText.dir/GUIComponent.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/GUIComponent.cpp.o: ../GUIComponent.cpp
 CMakeFiles/multiText.dir/GUIComponent.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/multiText.dir/GUIComponent.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/GUIComponent.cpp.o -MF CMakeFiles/multiText.dir/GUIComponent.cpp.o.d -o CMakeFiles/multiText.dir/GUIComponent.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/multiText.dir/GUIComponent.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/GUIComponent.cpp.o -MF CMakeFiles/multiText.dir/GUIComponent.cpp.o.d -o CMakeFiles/multiText.dir/GUIComponent.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.cpp
 
 CMakeFiles/multiText.dir/GUIComponent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/GUIComponent.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.cpp > CMakeFiles/multiText.dir/GUIComponent.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.cpp > CMakeFiles/multiText.dir/GUIComponent.cpp.i
 
 CMakeFiles/multiText.dir/GUIComponent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/GUIComponent.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.cpp -o CMakeFiles/multiText.dir/GUIComponent.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.cpp -o CMakeFiles/multiText.dir/GUIComponent.cpp.s
 
 CMakeFiles/multiText.dir/KeyShortcuts.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/KeyShortcuts.cpp.o: ../KeyShortcuts.cpp
 CMakeFiles/multiText.dir/KeyShortcuts.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/multiText.dir/KeyShortcuts.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/KeyShortcuts.cpp.o -MF CMakeFiles/multiText.dir/KeyShortcuts.cpp.o.d -o CMakeFiles/multiText.dir/KeyShortcuts.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/KeyShortcuts.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/multiText.dir/KeyShortcuts.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/KeyShortcuts.cpp.o -MF CMakeFiles/multiText.dir/KeyShortcuts.cpp.o.d -o CMakeFiles/multiText.dir/KeyShortcuts.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/KeyShortcuts.cpp
 
 CMakeFiles/multiText.dir/KeyShortcuts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/KeyShortcuts.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/KeyShortcuts.cpp > CMakeFiles/multiText.dir/KeyShortcuts.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/KeyShortcuts.cpp > CMakeFiles/multiText.dir/KeyShortcuts.cpp.i
 
 CMakeFiles/multiText.dir/KeyShortcuts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/KeyShortcuts.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/KeyShortcuts.cpp -o CMakeFiles/multiText.dir/KeyShortcuts.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/KeyShortcuts.cpp -o CMakeFiles/multiText.dir/KeyShortcuts.cpp.s
 
 CMakeFiles/multiText.dir/TextInput.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/TextInput.cpp.o: ../TextInput.cpp
 CMakeFiles/multiText.dir/TextInput.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/multiText.dir/TextInput.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/TextInput.cpp.o -MF CMakeFiles/multiText.dir/TextInput.cpp.o.d -o CMakeFiles/multiText.dir/TextInput.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/TextInput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/multiText.dir/TextInput.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/TextInput.cpp.o -MF CMakeFiles/multiText.dir/TextInput.cpp.o.d -o CMakeFiles/multiText.dir/TextInput.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/TextInput.cpp
 
 CMakeFiles/multiText.dir/TextInput.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/TextInput.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/TextInput.cpp > CMakeFiles/multiText.dir/TextInput.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/TextInput.cpp > CMakeFiles/multiText.dir/TextInput.cpp.i
 
 CMakeFiles/multiText.dir/TextInput.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/TextInput.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/TextInput.cpp -o CMakeFiles/multiText.dir/TextInput.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/TextInput.cpp -o CMakeFiles/multiText.dir/TextInput.cpp.s
 
 CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o: ../MultiTextSnapshot.cpp
 CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o -MF CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o.d -o CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/MultiTextSnapshot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o -MF CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o.d -o CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/MultiTextSnapshot.cpp
 
 CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/MultiTextSnapshot.cpp > CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/MultiTextSnapshot.cpp > CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.i
 
 CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/MultiTextSnapshot.cpp -o CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/MultiTextSnapshot.cpp -o CMakeFiles/multiText.dir/MultiTextSnapshot.cpp.s
 
 CMakeFiles/multiText.dir/History.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/History.cpp.o: ../History.cpp
 CMakeFiles/multiText.dir/History.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/multiText.dir/History.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/History.cpp.o -MF CMakeFiles/multiText.dir/History.cpp.o.d -o CMakeFiles/multiText.dir/History.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/History.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/multiText.dir/History.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/History.cpp.o -MF CMakeFiles/multiText.dir/History.cpp.o.d -o CMakeFiles/multiText.dir/History.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/History.cpp
 
 CMakeFiles/multiText.dir/History.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/History.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/History.cpp > CMakeFiles/multiText.dir/History.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/History.cpp > CMakeFiles/multiText.dir/History.cpp.i
 
 CMakeFiles/multiText.dir/History.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/History.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/History.cpp -o CMakeFiles/multiText.dir/History.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/History.cpp -o CMakeFiles/multiText.dir/History.cpp.s
 
 CMakeFiles/multiText.dir/SnapshotInterface.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/SnapshotInterface.cpp.o: ../SnapshotInterface.cpp
 CMakeFiles/multiText.dir/SnapshotInterface.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/multiText.dir/SnapshotInterface.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SnapshotInterface.cpp.o -MF CMakeFiles/multiText.dir/SnapshotInterface.cpp.o.d -o CMakeFiles/multiText.dir/SnapshotInterface.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/multiText.dir/SnapshotInterface.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SnapshotInterface.cpp.o -MF CMakeFiles/multiText.dir/SnapshotInterface.cpp.o.d -o CMakeFiles/multiText.dir/SnapshotInterface.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.cpp
 
 CMakeFiles/multiText.dir/SnapshotInterface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/SnapshotInterface.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.cpp > CMakeFiles/multiText.dir/SnapshotInterface.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.cpp > CMakeFiles/multiText.dir/SnapshotInterface.cpp.i
 
 CMakeFiles/multiText.dir/SnapshotInterface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/SnapshotInterface.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.cpp -o CMakeFiles/multiText.dir/SnapshotInterface.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.cpp -o CMakeFiles/multiText.dir/SnapshotInterface.cpp.s
 
 CMakeFiles/multiText.dir/Textbox.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Textbox.cpp.o: ../Textbox.cpp
 CMakeFiles/multiText.dir/Textbox.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/multiText.dir/Textbox.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Textbox.cpp.o -MF CMakeFiles/multiText.dir/Textbox.cpp.o.d -o CMakeFiles/multiText.dir/Textbox.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Textbox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/multiText.dir/Textbox.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Textbox.cpp.o -MF CMakeFiles/multiText.dir/Textbox.cpp.o.d -o CMakeFiles/multiText.dir/Textbox.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Textbox.cpp
 
 CMakeFiles/multiText.dir/Textbox.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Textbox.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Textbox.cpp > CMakeFiles/multiText.dir/Textbox.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Textbox.cpp > CMakeFiles/multiText.dir/Textbox.cpp.i
 
 CMakeFiles/multiText.dir/Textbox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Textbox.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Textbox.cpp -o CMakeFiles/multiText.dir/Textbox.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Textbox.cpp -o CMakeFiles/multiText.dir/Textbox.cpp.s
 
 CMakeFiles/multiText.dir/MouseEvents.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/MouseEvents.cpp.o: ../MouseEvents.cpp
 CMakeFiles/multiText.dir/MouseEvents.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/multiText.dir/MouseEvents.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/MouseEvents.cpp.o -MF CMakeFiles/multiText.dir/MouseEvents.cpp.o.d -o CMakeFiles/multiText.dir/MouseEvents.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/multiText.dir/MouseEvents.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/MouseEvents.cpp.o -MF CMakeFiles/multiText.dir/MouseEvents.cpp.o.d -o CMakeFiles/multiText.dir/MouseEvents.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp
 
 CMakeFiles/multiText.dir/MouseEvents.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/MouseEvents.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp > CMakeFiles/multiText.dir/MouseEvents.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp > CMakeFiles/multiText.dir/MouseEvents.cpp.i
 
 CMakeFiles/multiText.dir/MouseEvents.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/MouseEvents.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp -o CMakeFiles/multiText.dir/MouseEvents.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp -o CMakeFiles/multiText.dir/MouseEvents.cpp.s
 
 CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o: ../TextInputSnapshot.cpp
 CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o -MF CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o.d -o CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/TextInputSnapshot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o -MF CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o.d -o CMakeFiles/multiText.dir/TextInputSnapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/TextInputSnapshot.cpp
 
 CMakeFiles/multiText.dir/TextInputSnapshot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/TextInputSnapshot.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/TextInputSnapshot.cpp > CMakeFiles/multiText.dir/TextInputSnapshot.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/TextInputSnapshot.cpp > CMakeFiles/multiText.dir/TextInputSnapshot.cpp.i
 
 CMakeFiles/multiText.dir/TextInputSnapshot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/TextInputSnapshot.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/TextInputSnapshot.cpp -o CMakeFiles/multiText.dir/TextInputSnapshot.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/TextInputSnapshot.cpp -o CMakeFiles/multiText.dir/TextInputSnapshot.cpp.s
 
 CMakeFiles/multiText.dir/Cursor.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Cursor.cpp.o: ../Cursor.cpp
 CMakeFiles/multiText.dir/Cursor.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/multiText.dir/Cursor.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Cursor.cpp.o -MF CMakeFiles/multiText.dir/Cursor.cpp.o.d -o CMakeFiles/multiText.dir/Cursor.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Cursor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/multiText.dir/Cursor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Cursor.cpp.o -MF CMakeFiles/multiText.dir/Cursor.cpp.o.d -o CMakeFiles/multiText.dir/Cursor.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Cursor.cpp
 
 CMakeFiles/multiText.dir/Cursor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Cursor.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Cursor.cpp > CMakeFiles/multiText.dir/Cursor.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Cursor.cpp > CMakeFiles/multiText.dir/Cursor.cpp.i
 
 CMakeFiles/multiText.dir/Cursor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Cursor.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Cursor.cpp -o CMakeFiles/multiText.dir/Cursor.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Cursor.cpp -o CMakeFiles/multiText.dir/Cursor.cpp.s
 
 CMakeFiles/multiText.dir/Position.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Position.cpp.o: ../Position.cpp
 CMakeFiles/multiText.dir/Position.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/multiText.dir/Position.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Position.cpp.o -MF CMakeFiles/multiText.dir/Position.cpp.o.d -o CMakeFiles/multiText.dir/Position.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Position.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/multiText.dir/Position.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Position.cpp.o -MF CMakeFiles/multiText.dir/Position.cpp.o.d -o CMakeFiles/multiText.dir/Position.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Position.cpp
 
 CMakeFiles/multiText.dir/Position.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Position.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Position.cpp > CMakeFiles/multiText.dir/Position.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Position.cpp > CMakeFiles/multiText.dir/Position.cpp.i
 
 CMakeFiles/multiText.dir/Position.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Position.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Position.cpp -o CMakeFiles/multiText.dir/Position.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Position.cpp -o CMakeFiles/multiText.dir/Position.cpp.s
 
 CMakeFiles/multiText.dir/Label.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Label.cpp.o: ../Label.cpp
 CMakeFiles/multiText.dir/Label.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/multiText.dir/Label.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Label.cpp.o -MF CMakeFiles/multiText.dir/Label.cpp.o.d -o CMakeFiles/multiText.dir/Label.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Label.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/multiText.dir/Label.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Label.cpp.o -MF CMakeFiles/multiText.dir/Label.cpp.o.d -o CMakeFiles/multiText.dir/Label.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Label.cpp
 
 CMakeFiles/multiText.dir/Label.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Label.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Label.cpp > CMakeFiles/multiText.dir/Label.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Label.cpp > CMakeFiles/multiText.dir/Label.cpp.i
 
 CMakeFiles/multiText.dir/Label.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Label.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Label.cpp -o CMakeFiles/multiText.dir/Label.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Label.cpp -o CMakeFiles/multiText.dir/Label.cpp.s
 
 CMakeFiles/multiText.dir/ColorChanger.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/ColorChanger.cpp.o: ../ColorChanger.cpp
 CMakeFiles/multiText.dir/ColorChanger.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/multiText.dir/ColorChanger.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/ColorChanger.cpp.o -MF CMakeFiles/multiText.dir/ColorChanger.cpp.o.d -o CMakeFiles/multiText.dir/ColorChanger.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/ColorChanger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/multiText.dir/ColorChanger.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/ColorChanger.cpp.o -MF CMakeFiles/multiText.dir/ColorChanger.cpp.o.d -o CMakeFiles/multiText.dir/ColorChanger.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/ColorChanger.cpp
 
 CMakeFiles/multiText.dir/ColorChanger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/ColorChanger.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/ColorChanger.cpp > CMakeFiles/multiText.dir/ColorChanger.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/ColorChanger.cpp > CMakeFiles/multiText.dir/ColorChanger.cpp.i
 
 CMakeFiles/multiText.dir/ColorChanger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/ColorChanger.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/ColorChanger.cpp -o CMakeFiles/multiText.dir/ColorChanger.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/ColorChanger.cpp -o CMakeFiles/multiText.dir/ColorChanger.cpp.s
 
 CMakeFiles/multiText.dir/Word.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Word.cpp.o: ../Word.cpp
 CMakeFiles/multiText.dir/Word.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/multiText.dir/Word.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Word.cpp.o -MF CMakeFiles/multiText.dir/Word.cpp.o.d -o CMakeFiles/multiText.dir/Word.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Word.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/multiText.dir/Word.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Word.cpp.o -MF CMakeFiles/multiText.dir/Word.cpp.o.d -o CMakeFiles/multiText.dir/Word.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Word.cpp
 
 CMakeFiles/multiText.dir/Word.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Word.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Word.cpp > CMakeFiles/multiText.dir/Word.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Word.cpp > CMakeFiles/multiText.dir/Word.cpp.i
 
 CMakeFiles/multiText.dir/Word.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Word.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Word.cpp -o CMakeFiles/multiText.dir/Word.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Word.cpp -o CMakeFiles/multiText.dir/Word.cpp.s
 
 CMakeFiles/multiText.dir/FileReader.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/FileReader.cpp.o: ../FileReader.cpp
 CMakeFiles/multiText.dir/FileReader.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/multiText.dir/FileReader.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/FileReader.cpp.o -MF CMakeFiles/multiText.dir/FileReader.cpp.o.d -o CMakeFiles/multiText.dir/FileReader.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/FileReader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/multiText.dir/FileReader.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/FileReader.cpp.o -MF CMakeFiles/multiText.dir/FileReader.cpp.o.d -o CMakeFiles/multiText.dir/FileReader.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/FileReader.cpp
 
 CMakeFiles/multiText.dir/FileReader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/FileReader.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/FileReader.cpp > CMakeFiles/multiText.dir/FileReader.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/FileReader.cpp > CMakeFiles/multiText.dir/FileReader.cpp.i
 
 CMakeFiles/multiText.dir/FileReader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/FileReader.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/FileReader.cpp -o CMakeFiles/multiText.dir/FileReader.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/FileReader.cpp -o CMakeFiles/multiText.dir/FileReader.cpp.s
 
 CMakeFiles/multiText.dir/WordSort.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/WordSort.cpp.o: ../WordSort.cpp
 CMakeFiles/multiText.dir/WordSort.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/multiText.dir/WordSort.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/WordSort.cpp.o -MF CMakeFiles/multiText.dir/WordSort.cpp.o.d -o CMakeFiles/multiText.dir/WordSort.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/WordSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/multiText.dir/WordSort.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/WordSort.cpp.o -MF CMakeFiles/multiText.dir/WordSort.cpp.o.d -o CMakeFiles/multiText.dir/WordSort.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/WordSort.cpp
 
 CMakeFiles/multiText.dir/WordSort.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/WordSort.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/WordSort.cpp > CMakeFiles/multiText.dir/WordSort.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/WordSort.cpp > CMakeFiles/multiText.dir/WordSort.cpp.i
 
 CMakeFiles/multiText.dir/WordSort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/WordSort.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/WordSort.cpp -o CMakeFiles/multiText.dir/WordSort.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/WordSort.cpp -o CMakeFiles/multiText.dir/WordSort.cpp.s
 
 CMakeFiles/multiText.dir/Heap.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Heap.cpp.o: ../Heap.cpp
 CMakeFiles/multiText.dir/Heap.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/multiText.dir/Heap.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Heap.cpp.o -MF CMakeFiles/multiText.dir/Heap.cpp.o.d -o CMakeFiles/multiText.dir/Heap.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Heap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/multiText.dir/Heap.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Heap.cpp.o -MF CMakeFiles/multiText.dir/Heap.cpp.o.d -o CMakeFiles/multiText.dir/Heap.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Heap.cpp
 
 CMakeFiles/multiText.dir/Heap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Heap.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Heap.cpp > CMakeFiles/multiText.dir/Heap.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Heap.cpp > CMakeFiles/multiText.dir/Heap.cpp.i
 
 CMakeFiles/multiText.dir/Heap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Heap.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Heap.cpp -o CMakeFiles/multiText.dir/Heap.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Heap.cpp -o CMakeFiles/multiText.dir/Heap.cpp.s
 
 CMakeFiles/multiText.dir/NewColorChanger.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/NewColorChanger.cpp.o: ../NewColorChanger.cpp
 CMakeFiles/multiText.dir/NewColorChanger.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/multiText.dir/NewColorChanger.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/NewColorChanger.cpp.o -MF CMakeFiles/multiText.dir/NewColorChanger.cpp.o.d -o CMakeFiles/multiText.dir/NewColorChanger.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/NewColorChanger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/multiText.dir/NewColorChanger.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/NewColorChanger.cpp.o -MF CMakeFiles/multiText.dir/NewColorChanger.cpp.o.d -o CMakeFiles/multiText.dir/NewColorChanger.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/NewColorChanger.cpp
 
 CMakeFiles/multiText.dir/NewColorChanger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/NewColorChanger.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/NewColorChanger.cpp > CMakeFiles/multiText.dir/NewColorChanger.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/NewColorChanger.cpp > CMakeFiles/multiText.dir/NewColorChanger.cpp.i
 
 CMakeFiles/multiText.dir/NewColorChanger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/NewColorChanger.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/NewColorChanger.cpp -o CMakeFiles/multiText.dir/NewColorChanger.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/NewColorChanger.cpp -o CMakeFiles/multiText.dir/NewColorChanger.cpp.s
 
 CMakeFiles/multiText.dir/FileTree.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/FileTree.cpp.o: ../FileTree.cpp
 CMakeFiles/multiText.dir/FileTree.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/multiText.dir/FileTree.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/FileTree.cpp.o -MF CMakeFiles/multiText.dir/FileTree.cpp.o.d -o CMakeFiles/multiText.dir/FileTree.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/FileTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/multiText.dir/FileTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/FileTree.cpp.o -MF CMakeFiles/multiText.dir/FileTree.cpp.o.d -o CMakeFiles/multiText.dir/FileTree.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/FileTree.cpp
 
 CMakeFiles/multiText.dir/FileTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/FileTree.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/FileTree.cpp > CMakeFiles/multiText.dir/FileTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/FileTree.cpp > CMakeFiles/multiText.dir/FileTree.cpp.i
 
 CMakeFiles/multiText.dir/FileTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/FileTree.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/FileTree.cpp -o CMakeFiles/multiText.dir/FileTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/FileTree.cpp -o CMakeFiles/multiText.dir/FileTree.cpp.s
 
 CMakeFiles/multiText.dir/FileItem.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/FileItem.cpp.o: ../FileItem.cpp
 CMakeFiles/multiText.dir/FileItem.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/multiText.dir/FileItem.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/FileItem.cpp.o -MF CMakeFiles/multiText.dir/FileItem.cpp.o.d -o CMakeFiles/multiText.dir/FileItem.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/FileItem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/multiText.dir/FileItem.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/FileItem.cpp.o -MF CMakeFiles/multiText.dir/FileItem.cpp.o.d -o CMakeFiles/multiText.dir/FileItem.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/FileItem.cpp
 
 CMakeFiles/multiText.dir/FileItem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/FileItem.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/FileItem.cpp > CMakeFiles/multiText.dir/FileItem.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/FileItem.cpp > CMakeFiles/multiText.dir/FileItem.cpp.i
 
 CMakeFiles/multiText.dir/FileItem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/FileItem.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/FileItem.cpp -o CMakeFiles/multiText.dir/FileItem.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/FileItem.cpp -o CMakeFiles/multiText.dir/FileItem.cpp.s
 
 CMakeFiles/multiText.dir/Font.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Font.cpp.o: ../Font.cpp
 CMakeFiles/multiText.dir/Font.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/multiText.dir/Font.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Font.cpp.o -MF CMakeFiles/multiText.dir/Font.cpp.o.d -o CMakeFiles/multiText.dir/Font.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Font.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/multiText.dir/Font.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Font.cpp.o -MF CMakeFiles/multiText.dir/Font.cpp.o.d -o CMakeFiles/multiText.dir/Font.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Font.cpp
 
 CMakeFiles/multiText.dir/Font.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Font.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Font.cpp > CMakeFiles/multiText.dir/Font.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Font.cpp > CMakeFiles/multiText.dir/Font.cpp.i
 
 CMakeFiles/multiText.dir/Font.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Font.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Font.cpp -o CMakeFiles/multiText.dir/Font.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Font.cpp -o CMakeFiles/multiText.dir/Font.cpp.s
 
 CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o: ../SFMLFileTreeNode.cpp
 CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o -MF CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o.d -o CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTreeNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o -MF CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o.d -o CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTreeNode.cpp
 
 CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTreeNode.cpp > CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTreeNode.cpp > CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.i
 
 CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTreeNode.cpp -o CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTreeNode.cpp -o CMakeFiles/multiText.dir/SFMLFileTreeNode.cpp.s
 
 CMakeFiles/multiText.dir/SFMLFileTree.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/SFMLFileTree.cpp.o: ../SFMLFileTree.cpp
 CMakeFiles/multiText.dir/SFMLFileTree.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/multiText.dir/SFMLFileTree.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SFMLFileTree.cpp.o -MF CMakeFiles/multiText.dir/SFMLFileTree.cpp.o.d -o CMakeFiles/multiText.dir/SFMLFileTree.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/multiText.dir/SFMLFileTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SFMLFileTree.cpp.o -MF CMakeFiles/multiText.dir/SFMLFileTree.cpp.o.d -o CMakeFiles/multiText.dir/SFMLFileTree.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTree.cpp
 
 CMakeFiles/multiText.dir/SFMLFileTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/SFMLFileTree.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTree.cpp > CMakeFiles/multiText.dir/SFMLFileTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTree.cpp > CMakeFiles/multiText.dir/SFMLFileTree.cpp.i
 
 CMakeFiles/multiText.dir/SFMLFileTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/SFMLFileTree.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTree.cpp -o CMakeFiles/multiText.dir/SFMLFileTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTree.cpp -o CMakeFiles/multiText.dir/SFMLFileTree.cpp.s
 
 CMakeFiles/multiText.dir/Clothing.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Clothing.cpp.o: ../Clothing.cpp
 CMakeFiles/multiText.dir/Clothing.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/multiText.dir/Clothing.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Clothing.cpp.o -MF CMakeFiles/multiText.dir/Clothing.cpp.o.d -o CMakeFiles/multiText.dir/Clothing.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Clothing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/multiText.dir/Clothing.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Clothing.cpp.o -MF CMakeFiles/multiText.dir/Clothing.cpp.o.d -o CMakeFiles/multiText.dir/Clothing.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Clothing.cpp
 
 CMakeFiles/multiText.dir/Clothing.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Clothing.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Clothing.cpp > CMakeFiles/multiText.dir/Clothing.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Clothing.cpp > CMakeFiles/multiText.dir/Clothing.cpp.i
 
 CMakeFiles/multiText.dir/Clothing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Clothing.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Clothing.cpp -o CMakeFiles/multiText.dir/Clothing.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Clothing.cpp -o CMakeFiles/multiText.dir/Clothing.cpp.s
 
 CMakeFiles/multiText.dir/Circle.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Circle.cpp.o: ../Circle.cpp
 CMakeFiles/multiText.dir/Circle.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/multiText.dir/Circle.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Circle.cpp.o -MF CMakeFiles/multiText.dir/Circle.cpp.o.d -o CMakeFiles/multiText.dir/Circle.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Circle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/multiText.dir/Circle.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Circle.cpp.o -MF CMakeFiles/multiText.dir/Circle.cpp.o.d -o CMakeFiles/multiText.dir/Circle.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Circle.cpp
 
 CMakeFiles/multiText.dir/Circle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Circle.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Circle.cpp > CMakeFiles/multiText.dir/Circle.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Circle.cpp > CMakeFiles/multiText.dir/Circle.cpp.i
 
 CMakeFiles/multiText.dir/Circle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Circle.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Circle.cpp -o CMakeFiles/multiText.dir/Circle.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Circle.cpp -o CMakeFiles/multiText.dir/Circle.cpp.s
 
 CMakeFiles/multiText.dir/SaveCircle.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/SaveCircle.cpp.o: ../SaveCircle.cpp
 CMakeFiles/multiText.dir/SaveCircle.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/multiText.dir/SaveCircle.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SaveCircle.cpp.o -MF CMakeFiles/multiText.dir/SaveCircle.cpp.o.d -o CMakeFiles/multiText.dir/SaveCircle.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/SaveCircle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/multiText.dir/SaveCircle.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/SaveCircle.cpp.o -MF CMakeFiles/multiText.dir/SaveCircle.cpp.o.d -o CMakeFiles/multiText.dir/SaveCircle.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/SaveCircle.cpp
 
 CMakeFiles/multiText.dir/SaveCircle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/SaveCircle.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/SaveCircle.cpp > CMakeFiles/multiText.dir/SaveCircle.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/SaveCircle.cpp > CMakeFiles/multiText.dir/SaveCircle.cpp.i
 
 CMakeFiles/multiText.dir/SaveCircle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/SaveCircle.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/SaveCircle.cpp -o CMakeFiles/multiText.dir/SaveCircle.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/SaveCircle.cpp -o CMakeFiles/multiText.dir/SaveCircle.cpp.s
 
 CMakeFiles/multiText.dir/Item.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Item.cpp.o: ../Item.cpp
 CMakeFiles/multiText.dir/Item.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/multiText.dir/Item.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Item.cpp.o -MF CMakeFiles/multiText.dir/Item.cpp.o.d -o CMakeFiles/multiText.dir/Item.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Item.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/multiText.dir/Item.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Item.cpp.o -MF CMakeFiles/multiText.dir/Item.cpp.o.d -o CMakeFiles/multiText.dir/Item.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Item.cpp
 
 CMakeFiles/multiText.dir/Item.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Item.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Item.cpp > CMakeFiles/multiText.dir/Item.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Item.cpp > CMakeFiles/multiText.dir/Item.cpp.i
 
 CMakeFiles/multiText.dir/Item.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Item.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Item.cpp -o CMakeFiles/multiText.dir/Item.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Item.cpp -o CMakeFiles/multiText.dir/Item.cpp.s
 
 CMakeFiles/multiText.dir/DropDownMenu.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/DropDownMenu.cpp.o: ../DropDownMenu.cpp
 CMakeFiles/multiText.dir/DropDownMenu.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/multiText.dir/DropDownMenu.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/DropDownMenu.cpp.o -MF CMakeFiles/multiText.dir/DropDownMenu.cpp.o.d -o CMakeFiles/multiText.dir/DropDownMenu.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/DropDownMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/multiText.dir/DropDownMenu.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/DropDownMenu.cpp.o -MF CMakeFiles/multiText.dir/DropDownMenu.cpp.o.d -o CMakeFiles/multiText.dir/DropDownMenu.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/DropDownMenu.cpp
 
 CMakeFiles/multiText.dir/DropDownMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/DropDownMenu.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/DropDownMenu.cpp > CMakeFiles/multiText.dir/DropDownMenu.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/DropDownMenu.cpp > CMakeFiles/multiText.dir/DropDownMenu.cpp.i
 
 CMakeFiles/multiText.dir/DropDownMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/DropDownMenu.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/DropDownMenu.cpp -o CMakeFiles/multiText.dir/DropDownMenu.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/DropDownMenu.cpp -o CMakeFiles/multiText.dir/DropDownMenu.cpp.s
 
 CMakeFiles/multiText.dir/ItemList.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/ItemList.cpp.o: ../ItemList.cpp
 CMakeFiles/multiText.dir/ItemList.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/multiText.dir/ItemList.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/ItemList.cpp.o -MF CMakeFiles/multiText.dir/ItemList.cpp.o.d -o CMakeFiles/multiText.dir/ItemList.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/ItemList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/multiText.dir/ItemList.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/ItemList.cpp.o -MF CMakeFiles/multiText.dir/ItemList.cpp.o.d -o CMakeFiles/multiText.dir/ItemList.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/ItemList.cpp
 
 CMakeFiles/multiText.dir/ItemList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/ItemList.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/ItemList.cpp > CMakeFiles/multiText.dir/ItemList.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/ItemList.cpp > CMakeFiles/multiText.dir/ItemList.cpp.i
 
 CMakeFiles/multiText.dir/ItemList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/ItemList.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/ItemList.cpp -o CMakeFiles/multiText.dir/ItemList.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/ItemList.cpp -o CMakeFiles/multiText.dir/ItemList.cpp.s
 
 CMakeFiles/multiText.dir/InputBox.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/InputBox.cpp.o: ../InputBox.cpp
 CMakeFiles/multiText.dir/InputBox.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/multiText.dir/InputBox.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/InputBox.cpp.o -MF CMakeFiles/multiText.dir/InputBox.cpp.o.d -o CMakeFiles/multiText.dir/InputBox.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/InputBox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/multiText.dir/InputBox.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/InputBox.cpp.o -MF CMakeFiles/multiText.dir/InputBox.cpp.o.d -o CMakeFiles/multiText.dir/InputBox.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/InputBox.cpp
 
 CMakeFiles/multiText.dir/InputBox.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/InputBox.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/InputBox.cpp > CMakeFiles/multiText.dir/InputBox.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/InputBox.cpp > CMakeFiles/multiText.dir/InputBox.cpp.i
 
 CMakeFiles/multiText.dir/InputBox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/InputBox.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/InputBox.cpp -o CMakeFiles/multiText.dir/InputBox.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/InputBox.cpp -o CMakeFiles/multiText.dir/InputBox.cpp.s
 
 CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o: ../DropDownSnapshot.cpp
 CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o -MF CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o.d -o CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/DropDownSnapshot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o -MF CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o.d -o CMakeFiles/multiText.dir/DropDownSnapshot.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/DropDownSnapshot.cpp
 
 CMakeFiles/multiText.dir/DropDownSnapshot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/DropDownSnapshot.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/DropDownSnapshot.cpp > CMakeFiles/multiText.dir/DropDownSnapshot.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/DropDownSnapshot.cpp > CMakeFiles/multiText.dir/DropDownSnapshot.cpp.i
 
 CMakeFiles/multiText.dir/DropDownSnapshot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/DropDownSnapshot.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/DropDownSnapshot.cpp -o CMakeFiles/multiText.dir/DropDownSnapshot.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/DropDownSnapshot.cpp -o CMakeFiles/multiText.dir/DropDownSnapshot.cpp.s
 
 CMakeFiles/multiText.dir/Menu.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Menu.cpp.o: ../Menu.cpp
 CMakeFiles/multiText.dir/Menu.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/multiText.dir/Menu.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Menu.cpp.o -MF CMakeFiles/multiText.dir/Menu.cpp.o.d -o CMakeFiles/multiText.dir/Menu.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Menu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/multiText.dir/Menu.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Menu.cpp.o -MF CMakeFiles/multiText.dir/Menu.cpp.o.d -o CMakeFiles/multiText.dir/Menu.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Menu.cpp
 
 CMakeFiles/multiText.dir/Menu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Menu.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Menu.cpp > CMakeFiles/multiText.dir/Menu.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Menu.cpp > CMakeFiles/multiText.dir/Menu.cpp.i
 
 CMakeFiles/multiText.dir/Menu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Menu.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Menu.cpp -o CMakeFiles/multiText.dir/Menu.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Menu.cpp -o CMakeFiles/multiText.dir/Menu.cpp.s
 
 CMakeFiles/multiText.dir/Character.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Character.cpp.o: ../Character.cpp
 CMakeFiles/multiText.dir/Character.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/multiText.dir/Character.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Character.cpp.o -MF CMakeFiles/multiText.dir/Character.cpp.o.d -o CMakeFiles/multiText.dir/Character.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Character.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/multiText.dir/Character.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Character.cpp.o -MF CMakeFiles/multiText.dir/Character.cpp.o.d -o CMakeFiles/multiText.dir/Character.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Character.cpp
 
 CMakeFiles/multiText.dir/Character.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Character.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Character.cpp > CMakeFiles/multiText.dir/Character.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Character.cpp > CMakeFiles/multiText.dir/Character.cpp.i
 
 CMakeFiles/multiText.dir/Character.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Character.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Character.cpp -o CMakeFiles/multiText.dir/Character.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Character.cpp -o CMakeFiles/multiText.dir/Character.cpp.s
 
 CMakeFiles/multiText.dir/Images.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Images.cpp.o: ../Images.cpp
 CMakeFiles/multiText.dir/Images.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/multiText.dir/Images.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Images.cpp.o -MF CMakeFiles/multiText.dir/Images.cpp.o.d -o CMakeFiles/multiText.dir/Images.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Images.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/multiText.dir/Images.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Images.cpp.o -MF CMakeFiles/multiText.dir/Images.cpp.o.d -o CMakeFiles/multiText.dir/Images.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Images.cpp
 
 CMakeFiles/multiText.dir/Images.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Images.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Images.cpp > CMakeFiles/multiText.dir/Images.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Images.cpp > CMakeFiles/multiText.dir/Images.cpp.i
 
 CMakeFiles/multiText.dir/Images.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Images.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Images.cpp -o CMakeFiles/multiText.dir/Images.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Images.cpp -o CMakeFiles/multiText.dir/Images.cpp.s
 
 CMakeFiles/multiText.dir/ScreenComponents.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/ScreenComponents.cpp.o: ../ScreenComponents.cpp
 CMakeFiles/multiText.dir/ScreenComponents.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/multiText.dir/ScreenComponents.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/ScreenComponents.cpp.o -MF CMakeFiles/multiText.dir/ScreenComponents.cpp.o.d -o CMakeFiles/multiText.dir/ScreenComponents.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/ScreenComponents.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/multiText.dir/ScreenComponents.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/ScreenComponents.cpp.o -MF CMakeFiles/multiText.dir/ScreenComponents.cpp.o.d -o CMakeFiles/multiText.dir/ScreenComponents.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/ScreenComponents.cpp
 
 CMakeFiles/multiText.dir/ScreenComponents.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/ScreenComponents.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/ScreenComponents.cpp > CMakeFiles/multiText.dir/ScreenComponents.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/ScreenComponents.cpp > CMakeFiles/multiText.dir/ScreenComponents.cpp.i
 
 CMakeFiles/multiText.dir/ScreenComponents.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/ScreenComponents.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/ScreenComponents.cpp -o CMakeFiles/multiText.dir/ScreenComponents.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/ScreenComponents.cpp -o CMakeFiles/multiText.dir/ScreenComponents.cpp.s
 
 CMakeFiles/multiText.dir/CustomCursor.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/CustomCursor.cpp.o: ../CustomCursor.cpp
 CMakeFiles/multiText.dir/CustomCursor.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/multiText.dir/CustomCursor.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/CustomCursor.cpp.o -MF CMakeFiles/multiText.dir/CustomCursor.cpp.o.d -o CMakeFiles/multiText.dir/CustomCursor.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/CustomCursor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/multiText.dir/CustomCursor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/CustomCursor.cpp.o -MF CMakeFiles/multiText.dir/CustomCursor.cpp.o.d -o CMakeFiles/multiText.dir/CustomCursor.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/CustomCursor.cpp
 
 CMakeFiles/multiText.dir/CustomCursor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/CustomCursor.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/CustomCursor.cpp > CMakeFiles/multiText.dir/CustomCursor.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/CustomCursor.cpp > CMakeFiles/multiText.dir/CustomCursor.cpp.i
 
 CMakeFiles/multiText.dir/CustomCursor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/CustomCursor.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/CustomCursor.cpp -o CMakeFiles/multiText.dir/CustomCursor.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/CustomCursor.cpp -o CMakeFiles/multiText.dir/CustomCursor.cpp.s
 
 CMakeFiles/multiText.dir/AppGame.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/AppGame.cpp.o: ../AppGame.cpp
 CMakeFiles/multiText.dir/AppGame.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/multiText.dir/AppGame.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/AppGame.cpp.o -MF CMakeFiles/multiText.dir/AppGame.cpp.o.d -o CMakeFiles/multiText.dir/AppGame.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/AppGame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/multiText.dir/AppGame.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/AppGame.cpp.o -MF CMakeFiles/multiText.dir/AppGame.cpp.o.d -o CMakeFiles/multiText.dir/AppGame.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/AppGame.cpp
 
 CMakeFiles/multiText.dir/AppGame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/AppGame.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/AppGame.cpp > CMakeFiles/multiText.dir/AppGame.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/AppGame.cpp > CMakeFiles/multiText.dir/AppGame.cpp.i
 
 CMakeFiles/multiText.dir/AppGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/AppGame.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/AppGame.cpp -o CMakeFiles/multiText.dir/AppGame.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/AppGame.cpp -o CMakeFiles/multiText.dir/AppGame.cpp.s
 
 CMakeFiles/multiText.dir/OptionsBar.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/OptionsBar.cpp.o: ../OptionsBar.cpp
 CMakeFiles/multiText.dir/OptionsBar.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/multiText.dir/OptionsBar.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/OptionsBar.cpp.o -MF CMakeFiles/multiText.dir/OptionsBar.cpp.o.d -o CMakeFiles/multiText.dir/OptionsBar.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/OptionsBar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/multiText.dir/OptionsBar.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/OptionsBar.cpp.o -MF CMakeFiles/multiText.dir/OptionsBar.cpp.o.d -o CMakeFiles/multiText.dir/OptionsBar.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/OptionsBar.cpp
 
 CMakeFiles/multiText.dir/OptionsBar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/OptionsBar.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/OptionsBar.cpp > CMakeFiles/multiText.dir/OptionsBar.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/OptionsBar.cpp > CMakeFiles/multiText.dir/OptionsBar.cpp.i
 
 CMakeFiles/multiText.dir/OptionsBar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/OptionsBar.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/OptionsBar.cpp -o CMakeFiles/multiText.dir/OptionsBar.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/OptionsBar.cpp -o CMakeFiles/multiText.dir/OptionsBar.cpp.s
 
 CMakeFiles/multiText.dir/Panel.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Panel.cpp.o: ../Panel.cpp
 CMakeFiles/multiText.dir/Panel.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/multiText.dir/Panel.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Panel.cpp.o -MF CMakeFiles/multiText.dir/Panel.cpp.o.d -o CMakeFiles/multiText.dir/Panel.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Panel.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/multiText.dir/Panel.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Panel.cpp.o -MF CMakeFiles/multiText.dir/Panel.cpp.o.d -o CMakeFiles/multiText.dir/Panel.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Panel.cpp
 
 CMakeFiles/multiText.dir/Panel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Panel.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Panel.cpp > CMakeFiles/multiText.dir/Panel.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Panel.cpp > CMakeFiles/multiText.dir/Panel.cpp.i
 
 CMakeFiles/multiText.dir/Panel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Panel.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Panel.cpp -o CMakeFiles/multiText.dir/Panel.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Panel.cpp -o CMakeFiles/multiText.dir/Panel.cpp.s
 
 CMakeFiles/multiText.dir/Closet.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Closet.cpp.o: ../Closet.cpp
 CMakeFiles/multiText.dir/Closet.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/multiText.dir/Closet.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Closet.cpp.o -MF CMakeFiles/multiText.dir/Closet.cpp.o.d -o CMakeFiles/multiText.dir/Closet.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Closet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/multiText.dir/Closet.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Closet.cpp.o -MF CMakeFiles/multiText.dir/Closet.cpp.o.d -o CMakeFiles/multiText.dir/Closet.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Closet.cpp
 
 CMakeFiles/multiText.dir/Closet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Closet.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Closet.cpp > CMakeFiles/multiText.dir/Closet.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Closet.cpp > CMakeFiles/multiText.dir/Closet.cpp.i
 
 CMakeFiles/multiText.dir/Closet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Closet.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Closet.cpp -o CMakeFiles/multiText.dir/Closet.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Closet.cpp -o CMakeFiles/multiText.dir/Closet.cpp.s
 
 CMakeFiles/multiText.dir/Settings.cpp.o: CMakeFiles/multiText.dir/flags.make
 CMakeFiles/multiText.dir/Settings.cpp.o: ../Settings.cpp
 CMakeFiles/multiText.dir/Settings.cpp.o: CMakeFiles/multiText.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/multiText.dir/Settings.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Settings.cpp.o -MF CMakeFiles/multiText.dir/Settings.cpp.o.d -o CMakeFiles/multiText.dir/Settings.cpp.o -c /Users/khanh/CLionProjects/DressUpGame1/Settings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/multiText.dir/Settings.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/multiText.dir/Settings.cpp.o -MF CMakeFiles/multiText.dir/Settings.cpp.o.d -o CMakeFiles/multiText.dir/Settings.cpp.o -c /Users/khanh/CLionProjects/DressUpGame2/Settings.cpp
 
 CMakeFiles/multiText.dir/Settings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/multiText.dir/Settings.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame1/Settings.cpp > CMakeFiles/multiText.dir/Settings.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/khanh/CLionProjects/DressUpGame2/Settings.cpp > CMakeFiles/multiText.dir/Settings.cpp.i
 
 CMakeFiles/multiText.dir/Settings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/multiText.dir/Settings.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame1/Settings.cpp -o CMakeFiles/multiText.dir/Settings.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/khanh/CLionProjects/DressUpGame2/Settings.cpp -o CMakeFiles/multiText.dir/Settings.cpp.s
 
 # Object files for target multiText
 multiText_OBJECTS = \
@@ -849,7 +849,7 @@ multiText: /usr/local/lib/libsfml-audio.2.5.1.dylib
 multiText: /usr/local/lib/libsfml-window.2.5.1.dylib
 multiText: /usr/local/lib/libsfml-system.2.5.1.dylib
 multiText: CMakeFiles/multiText.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable multiText"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable multiText"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/multiText.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -861,6 +861,6 @@ CMakeFiles/multiText.dir/clean:
 .PHONY : CMakeFiles/multiText.dir/clean
 
 CMakeFiles/multiText.dir/depend:
-	cd /Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/khanh/CLionProjects/DressUpGame1 /Users/khanh/CLionProjects/DressUpGame1 /Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug /Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug /Users/khanh/CLionProjects/DressUpGame1/cmake-build-debug/CMakeFiles/multiText.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/khanh/CLionProjects/DressUpGame2 /Users/khanh/CLionProjects/DressUpGame2 /Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug /Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug /Users/khanh/CLionProjects/DressUpGame2/cmake-build-debug/CMakeFiles/multiText.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/multiText.dir/depend
 

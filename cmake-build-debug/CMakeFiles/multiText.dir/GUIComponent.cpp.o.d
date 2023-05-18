@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/GUIComponent.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.h \
+  /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -493,9 +493,9 @@ CMakeFiles/multiText.dir/GUIComponent.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/EventHandler.h \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Snapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/EventHandler.h \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Snapshot.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/istream

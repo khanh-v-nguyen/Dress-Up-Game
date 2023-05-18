@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/CustomCursor.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/CustomCursor.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/CustomCursor.h \
+  /Users/khanh/CLionProjects/DressUpGame2/CustomCursor.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/CustomCursor.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -493,12 +493,12 @@ CMakeFiles/multiText.dir/CustomCursor.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Images.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Images.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/istream \
-  /Users/khanh/CLionProjects/DressUpGame1/Character.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h
+  /Users/khanh/CLionProjects/DressUpGame2/Character.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h

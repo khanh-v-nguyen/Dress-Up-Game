@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Letter.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Letter.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Letter.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Letter.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Letter.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

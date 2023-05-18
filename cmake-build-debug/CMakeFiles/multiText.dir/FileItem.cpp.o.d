@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/FileItem.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/FileItem.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/FileItem.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileItem.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/FileItem.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -493,6 +493,6 @@ CMakeFiles/multiText.dir/FileItem.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Font.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Font.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/istream

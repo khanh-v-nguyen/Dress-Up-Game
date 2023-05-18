@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Snapshot.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Snapshot.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Snapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Snapshot.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Snapshot.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \

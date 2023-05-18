@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/WordSort.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/WordSort.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/WordSort.h \
+  /Users/khanh/CLionProjects/DressUpGame2/WordSort.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/WordSort.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -351,7 +351,7 @@ CMakeFiles/multiText.dir/WordSort.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__algorithm/unique_copy.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__algorithm/unique.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/khanh/CLionProjects/DressUpGame1/Word.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Word.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -496,23 +496,23 @@ CMakeFiles/multiText.dir/WordSort.cpp.o: \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/istream \
-  /Users/khanh/CLionProjects/DressUpGame1/FileReader.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileReader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/stack \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/deque \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iomanip \
-  /Users/khanh/CLionProjects/DressUpGame1/FileReader.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Heap.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Heap.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/MultiText.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Letter.h \
-  /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.h \
-  /Users/khanh/CLionProjects/DressUpGame1/EventHandler.h \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Snapshot.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MultiTextSnapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileReader.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Heap.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Heap.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/MultiText.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Letter.h \
+  /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.h \
+  /Users/khanh/CLionProjects/DressUpGame2/EventHandler.h \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Snapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MultiTextSnapshot.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/list \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.cpp
+  /Users/khanh/CLionProjects/DressUpGame2/Position.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.cpp

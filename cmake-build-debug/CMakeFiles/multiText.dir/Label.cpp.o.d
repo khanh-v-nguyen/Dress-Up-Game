@@ -1,6 +1,6 @@
 CMakeFiles/multiText.dir/Label.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/Label.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Label.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Label.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Label.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \

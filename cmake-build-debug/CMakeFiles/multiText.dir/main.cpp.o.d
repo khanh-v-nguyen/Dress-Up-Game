@@ -1,5 +1,5 @@
 CMakeFiles/multiText.dir/main.cpp.o: \
-  /Users/khanh/CLionProjects/DressUpGame1/main.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/main.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -413,8 +413,8 @@ CMakeFiles/multiText.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Application.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Typing.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Application.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Typing.h \
   /usr/local/include/SFML/Graphics.hpp \
   /usr/local/include/SFML/Window.hpp /usr/local/include/SFML/System.hpp \
   /usr/local/include/SFML/Config.hpp \
@@ -496,61 +496,61 @@ CMakeFiles/multiText.dir/main.cpp.o: \
   /usr/local/include/SFML/Graphics/Sprite.hpp \
   /usr/local/include/SFML/Graphics/Text.hpp \
   /usr/local/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/MultiText.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Letter.h \
-  /Users/khanh/CLionProjects/DressUpGame1/GUIComponent.h \
-  /Users/khanh/CLionProjects/DressUpGame1/EventHandler.h \
-  /Users/khanh/CLionProjects/DressUpGame1/States.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SnapshotInterface.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Snapshot.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MultiTextSnapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MultiText.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Letter.h \
+  /Users/khanh/CLionProjects/DressUpGame2/GUIComponent.h \
+  /Users/khanh/CLionProjects/DressUpGame2/EventHandler.h \
+  /Users/khanh/CLionProjects/DressUpGame2/States.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SnapshotInterface.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Snapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MultiTextSnapshot.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/list \
-  /Users/khanh/CLionProjects/DressUpGame1/KeyShortcuts.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Position.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Cursor.h \
-  /Users/khanh/CLionProjects/DressUpGame1/NewColorChanger.h \
+  /Users/khanh/CLionProjects/DressUpGame2/KeyShortcuts.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Position.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Cursor.h \
+  /Users/khanh/CLionProjects/DressUpGame2/NewColorChanger.h \
   /usr/local/include/SFMl/Graphics.hpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Textbox.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.h \
-  /Users/khanh/CLionProjects/DressUpGame1/MouseEvents.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/TextInput.h \
-  /Users/khanh/CLionProjects/DressUpGame1/TextInputSnapshot.h \
-  /Users/khanh/CLionProjects/DressUpGame1/History.h \
-  /Users/khanh/CLionProjects/DressUpGame1/HistoryNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Textbox.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.h \
+  /Users/khanh/CLionProjects/DressUpGame2/MouseEvents.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/TextInput.h \
+  /Users/khanh/CLionProjects/DressUpGame2/TextInputSnapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/History.h \
+  /Users/khanh/CLionProjects/DressUpGame2/HistoryNode.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/stack \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/deque \
-  /Users/khanh/CLionProjects/DressUpGame1/Label.h \
-  /Users/khanh/CLionProjects/DressUpGame1/WordSort.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Word.h \
-  /Users/khanh/CLionProjects/DressUpGame1/FileReader.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Label.h \
+  /Users/khanh/CLionProjects/DressUpGame2/WordSort.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Word.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileReader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iomanip \
-  /Users/khanh/CLionProjects/DressUpGame1/FileReader.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/Heap.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Heap.cpp \
-  /Users/khanh/CLionProjects/DressUpGame1/ColorChanger.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTree.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileReader.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/Heap.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Heap.cpp \
+  /Users/khanh/CLionProjects/DressUpGame2/ColorChanger.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTree.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/sstream \
-  /Users/khanh/CLionProjects/DressUpGame1/FileTree.h \
-  /Users/khanh/CLionProjects/DressUpGame1/FileTreeNode.h \
-  /Users/khanh/CLionProjects/DressUpGame1/FileItem.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Font.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SFMLFileTreeNode.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Character.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Images.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Clothing.h \
-  /Users/khanh/CLionProjects/DressUpGame1/CustomCursor.h \
-  /Users/khanh/CLionProjects/DressUpGame1/DropDownMenu.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Item.h \
-  /Users/khanh/CLionProjects/DressUpGame1/ItemList.h \
-  /Users/khanh/CLionProjects/DressUpGame1/InputBox.h \
-  /Users/khanh/CLionProjects/DressUpGame1/DropDownSnapshot.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Circle.h \
-  /Users/khanh/CLionProjects/DressUpGame1/SaveCircle.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Menu.h \
-  /Users/khanh/CLionProjects/DressUpGame1/AppGame.h \
-  /Users/khanh/CLionProjects/DressUpGame1/OptionsBar.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Closet.h \
-  /Users/khanh/CLionProjects/DressUpGame1/Settings.h
+  /Users/khanh/CLionProjects/DressUpGame2/FileTree.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileTreeNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/FileItem.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Font.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SFMLFileTreeNode.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Character.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Images.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Clothing.h \
+  /Users/khanh/CLionProjects/DressUpGame2/CustomCursor.h \
+  /Users/khanh/CLionProjects/DressUpGame2/DropDownMenu.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Item.h \
+  /Users/khanh/CLionProjects/DressUpGame2/ItemList.h \
+  /Users/khanh/CLionProjects/DressUpGame2/InputBox.h \
+  /Users/khanh/CLionProjects/DressUpGame2/DropDownSnapshot.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Circle.h \
+  /Users/khanh/CLionProjects/DressUpGame2/SaveCircle.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Menu.h \
+  /Users/khanh/CLionProjects/DressUpGame2/AppGame.h \
+  /Users/khanh/CLionProjects/DressUpGame2/OptionsBar.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Closet.h \
+  /Users/khanh/CLionProjects/DressUpGame2/Settings.h
